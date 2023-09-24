@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "title": "Medical Supplies Donation",
+    "description": "Help save lives by donating essential medical supplies. Your contribution can make a significant impact on healthcare efforts. Medical supplies are crucial for healthcare providers to deliver quality care. Your support ensures that hospitals and clinics have the necessary tools to treat patients effectively. Whether it's masks, gloves, or other vital equipment, your donation goes a long way in ensuring the well-being of those in need. Join us in making a difference in the world of healthcare.",
+    "category": "Health",
+    "price": 50,
+    "image": "https://i.ibb.co/7ttfQ0P/Health.png",
+    "cardbg": "#D9E5FE",
+    "categorybg": "#AEC8FF",
+    "textcolor": "#0052FF"
+  },
+  {
+    "id": 2,
+    "title": "Scholarship Fund",
+    "description": "Empower the next generation through our scholarship fund. Education is a powerful tool for change, and your support can transform lives. By contributing to scholarships, you open doors of opportunity for deserving students. Your generosity helps them access quality education, pursue their dreams, and build a brighter future. Investing in education is an investment in a better tomorrow. Join us in shaping young minds and fostering a world of possibilities.",
+    "category": "Education",
+    "price": 100,
+    "image": "https://i.ibb.co/F8sD6w5/Education.png",
+    "cardbg": "#FFE3E4",
+    "categorybg": "#FFC3C5",
+    "textcolor": "#FF444A"
+  },
+  {
+    "id": 3,
+    "title": "Warm Clothing Drive",
+    "description": "Spread warmth and kindness by donating warm clothing. Cold weather can be harsh for those in need. Your donation of warm clothing items can provide comfort and protection during winter. From coats and sweaters to hats and gloves, your contribution helps individuals and families stay warm and healthy. Join us in making winter a little easier for those facing challenges. Your generosity can make a significant difference in the lives of many.",
+    "category": "Clothing",
+    "price": 20,
+    "image": "https://i.ibb.co/hmLdGG3/Clothing.png",
+    "cardbg": "#EBF6E2",
+    "categorybg": "#D4ECC1",
+    "textcolor": "#79C23F"
+  },
+  {
+    "id": 4,
+    "title": "Food Bank Donation",
+    "description": "Fight hunger in your community by supporting our food bank. Your donation helps ensure that families have access to nutritious meals. Food banks play a critical role in alleviating hunger, especially during challenging times. Your support can provide essential food items to those in need. Join us in making a direct impact on food security and helping individuals and families thrive.",
+    "category": "Food",
+    "price": 30,
+    "image": "https://i.ibb.co/2M1hck1/Food.png",
+    "cardbg": "#FEEAE3",
+    "categorybg": "#FDD2C4",
+    "textcolor": "#F87147"
+  },
+  {
+    "id": 5,
+    "title": "Medical Equipment Fund",
+    "description": "Enhance healthcare by funding essential medical equipment. Quality healthcare relies on state-of-the-art equipment, and your contribution can make it possible. Your support ensures that hospitals and clinics have the tools they need to deliver excellent care. From diagnostic devices to life-saving machines, your donation can save lives and improve patient outcomes. Join us in advancing healthcare and making a positive impact on countless lives.",
+    "category": "Health",
+    "price": 75,
+    "image": "https://i.ibb.co/LJqpLwt/health2.jpg",
+    "cardbg": "#D9E5FE",
+    "categorybg": "#AEC8FF",
+    "textcolor": "#0052FF"
+  },
+  {
+    "id": 6,
+    "title": "Educational Supplies Drive",
+    "description": "Empower students with the gift of educational supplies. Access to quality education starts with having the right tools. Your donation of school supplies can provide students with the resources they need to succeed. From notebooks to pens and textbooks, your support can make a big difference in the classroom. Join us in shaping the future by supporting education and empowering students.",
+    "category": "Education",
+    "price": 15,
+    "image": "https://i.ibb.co/5rd3HHS/education-2.webp",
+    "cardbg": "#FFE3E4",
+    "categorybg": "#FFC3C5",
+    "textcolor": "#FF444A"
+  },
+  {
+    "id": 7,
+    "title": "Clothing for the Needy",
+    "description": "Donate clothing items to help those less fortunate. Access to warm clothing is essential, especially during cold seasons. Your contribution can provide comfort and dignity to individuals and families facing hardships. From jackets to shoes, your donation can make a positive impact on those in need. Join us in spreading warmth and kindness.",
+    "category": "Clothing",
+    "price": 25,
+    "image": "https://i.ibb.co/hVNjwyy/clothings-2.jpg",
+    "cardbg": "#EBF6E2",
+    "categorybg": "#D4ECC1",
+    "textcolor": "#79C23F"
+  },
+  {
+    "id": 8,
+    "title": "Emergency Food Relief",
+    "description": "Support emergency food relief efforts to combat hunger during crises. Your donation can provide immediate assistance to individuals and families facing food insecurity during emergencies. Food relief efforts are crucial in providing nutrition and sustenance during challenging times. Join us in making a difference by ensuring that no one goes hungry during emergencies.",
+    "category": "Food",
+    "price": 40,
+    "image": "https://i.ibb.co/dbJXz79/food-2.jpg",
+    "cardbg": "#FEEAE3",
+    "categorybg": "#FDD2C4",
+    "textcolor": "#F87147"
+  },
+  {
+    "id": 9,
+    "title": "Healthcare Access Initiative",
+    "description": "Join our initiative to improve healthcare access for underserved communities. Quality healthcare should be accessible to all, regardless of their circumstances. Your support can help bridge the gap and ensure that everyone receives the care they deserve. Join us in making healthcare a basic right for everyone.",
+    "category": "Health",
+    "price": 60,
+    "image": "https://i.ibb.co/D9Jq7p0/health-3.jpg",
+    "cardbg": "#D9E5FE",
+    "categorybg": "#AEC8FF",
+    "textcolor": "#0052FF"
+  },
+  {
+    "id": 10,
+    "title": "Educational Workshops",
+    "description": "Support educational workshops and programs for students and adults. Your contribution can empower individuals with knowledge and skills. Educational workshops provide valuable learning opportunities that can transform lives. Join us in promoting lifelong learning and personal growth.",
+    "category": "Education",
+    "price": 25,
+    "image": "https://i.ibb.co/hZJ3Hj4/education-3.jpg",
+    "cardbg": "#FFE3E4",
+    "categorybg": "#FFC3C5",
+    "textcolor": "#FF444A"
+  },
+  {
+    "id": 11,
+    "title": "Winter Clothing Drive",
+    "description": "Help those in need stay warm during the winter season. Your donation of winter clothing items can provide comfort and protection against the cold. From coats to scarves, your support can make a positive impact on the lives of individuals and families facing winter challenges.",
+    "category": "Clothing",
+    "price": 20,
+    "image": "https://i.ibb.co/sJzxxPC/clothings-3.jpg",
+    "cardbg": "#EBF6E2",
+    "categorybg": "#D4ECC1",
+    "textcolor": "#79C23F"
+  },
+  {
+    "id": 12,
+    "title": "Nutritious Food Support",
+    "description": "Contribute to providing nutritious food to families in need. Your donation can ensure access to healthy meals for those facing food insecurity. Nutritious food is essential for overall well-being, and your support can make a difference in promoting healthy eating habits.",
+    "category": "Food",
+    "price": 35,
+    "image": "https://i.ibb.co/P1dFbvj/food-3.jpg",
+    "cardbg": "#FEEAE3",
+    "categorybg": "#FDD2C4",
+    "textcolor": "#F87147"
+  }
+]
