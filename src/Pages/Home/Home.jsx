@@ -32,7 +32,7 @@ const Home = () => {
           <div className="hero-content text-center text-neutral-content">
             <div className="max-w-3xl text-black">
               <h1 className="text-3xl font-bold mb-3">I Grow By Helping People In Need</h1>
-              <input onChange={handleChange} className="p-[7px] rounded-l-lg lg:w-[300px] md:w-[250px] border border-solid border-gray-400 outline-none" type="text" placeholder="Search Here" />
+              <input onChange={handleChange} className="p-[7px] rounded-l-lg lg:w-[300px] md:w-[250px] border border-solid border-gray-400 outline-none" name="search" type="text" placeholder="Search Here" />
               <button onClick={handleSearch} className="bg-[#FF444A] p-2 rounded-r-lg text-white">Search</button>
             </div>
           </div>
