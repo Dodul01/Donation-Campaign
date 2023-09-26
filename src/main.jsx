@@ -7,15 +7,17 @@ import Home from './Pages/Home/Home.jsx'
 import Donation from './Pages/Donation/Donation.jsx'
 import Statistics from './Pages/Statistics/Statistics.jsx'
 import DonationDetails from './Pages/DonationDetails/DonationDetails.jsx'
+import Error from './Pages/ErrorPage/Error.jsx'
 
 const router = createBrowserRouter([
   {
     path: '/',
     element: <App></App>,
+    errorElement: <Error></Error>,
     children: [
       {
         path: '/',
-        element: <Home></Home>,
+        element: <Home></Home>
       },
       {
         path: '/donation',
