@@ -12,3 +12,8 @@ Welcome to Donation Camping, a website . Here, users can seamlessly contribute t
   <li>Donation list or history</li>
   <li>Dynamic Statistic</li>
 </ul>
+
+## Technology 
+- React JS
+- MUI Charts
+- LocalStorage
